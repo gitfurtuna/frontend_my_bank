@@ -14,7 +14,7 @@ function InputField({ label, type, value, onChange, placeholder, required, error
           className="input-field"
         />
       </label>
-      {errorMessage && <div className="error-message">{errorMessage}</div>}
+      {errorMessage && <span className="error-message">{errorMessage}</span>}
     </div>
   );
 }

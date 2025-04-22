@@ -1,18 +1,11 @@
 import React from 'react';
 
-function Alert({ type, message }) {
-  let alertClass = 'alert';
-  if (type === 'success') {
-    alertClass += ' alert-success';
-  } else if (type === 'error') {
-    alertClass += ' alert-error';
-  }
-
-  return (
-
-      {message}
-
-  );
+function Alert({ message, type, className }) {
+    return (
+        <div className={`alert ${type} ${className ? className : ''}`}>
+            {message}
+        </div>
+    );
 }
 
 export default Alert;
