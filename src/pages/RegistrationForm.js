@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import InputField from '../components/InputField';
 import Button from '../components/Button';
 import Alert from '../components/Alert';
@@ -15,12 +16,7 @@ function RegistrationForm() {
     const [errorMessage, setErrorMessage] = useState('');
     const [successMessage, setSuccessMessage] = useState('');
     const [fieldErrors, setFieldErrors] = useState({});
-
-    const handleLogin = () => {
-        // Логика для обработки входа
-        console.log("Login button clicked");
-    };
-
+    const navigate = useNavigate();
 
     const handleSubmit = async (event) => {
         event.preventDefault();
@@ -84,6 +80,7 @@ function RegistrationForm() {
                 setDateOfBirth('');
                 setPhoneNumber('');
 
+             navigate.push('/login');
              }
              }catch (error) {
                  console.error('Registration error:', error);
@@ -194,7 +191,7 @@ function RegistrationForm() {
                 {/* Кнопки */}
 
                  <Button type="submit" className="form-button">Register now</Button>
-                 <Button type="button" onClick={handleLogin} className="form-button">Login</Button>
+                 <Button type="button" onClick={() => navigate('/login')} className="form-button">Login</Button>
            </form>
         </>
     );
