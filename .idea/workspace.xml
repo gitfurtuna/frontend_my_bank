@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e4cb29a8-a23d-4112-864c-e1ba931c7070" name="Changes" comment="Add new function">
+      <change afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/AuthenticationForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/RegistrationForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/RegistrationForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "gitfurtuna"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gitfurtuna/frontend_my_bank.git",
+    "accountId": "277f559a-feb0-48d7-95c3-8ea1bce6a632"
+  }
+}]]></component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2w3qmS1GhTmlXo3a61vBUiVV4Az" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/User/Desktop/MYBANK/frontend_my_bank"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\MYBANK\frontend_my_bank\src\assets" />
+      <recent name="C:\Users\User\Desktop\MYBANK\frontend_my_bank\src\pages" />
+      <recent name="C:\Users\User\Desktop\MYBANK\frontend_my_bank\src\component" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4cb29a8-a23d-4112-864c-e1ba931c7070" name="Changes" comment="" />
+      <created>1745280764060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745280764060</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initialize project using Create React App">
+      <option name="closed" value="true" />
+      <created>1745293800429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745293800429</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initialize project using Create React App">
+      <option name="closed" value="true" />
+      <created>1745293853670</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745293853670</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initialize project using Create React App">
+      <option name="closed" value="true" />
+      <created>1745293863853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745293863853</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initialize project using Create React App">
+      <option name="closed" value="true" />
+      <created>1745293926475</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745293926475</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initialize project using Create React App">
+      <option name="closed" value="true" />
+      <created>1745293934728</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745293934728</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Initialize project using Create React App">
+      <option name="closed" value="true" />
+      <created>1745293939046</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745293939046</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initialize project using Create React App">
+      <option name="closed" value="true" />
+      <created>1745294138450</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745294138450</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add new function">
+      <option name="closed" value="true" />
+      <created>1745341108594</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745341108595</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initialize project using Create React App" />
+    <MESSAGE value="Add new function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new function" />
+  </component>
+</project>
