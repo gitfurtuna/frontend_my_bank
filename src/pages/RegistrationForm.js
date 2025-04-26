@@ -58,7 +58,8 @@ function RegistrationForm() {
 
 
         try {
-            const response = await axios.post('http://localhost:8080/register', {
+            const response = await axios.post('http://localhost:8080/auth/register', {
+                withCredentials: true,
                 email: email,
                 password: password,
                 name: name,
@@ -80,7 +81,6 @@ function RegistrationForm() {
                 setDateOfBirth('');
                 setPhoneNumber('');
 
-             navigate.push('/login');
              }
              }catch (error) {
                  console.error('Registration error:', error);

@@ -22,6 +22,7 @@ function AuthenticationForm() {
 
          try {
               const response = await axios.post('http://localhost:8080/auth/login', {
+                withCredentials: true,
                 email: email,
                 password: password,
                 },
@@ -36,7 +37,7 @@ function AuthenticationForm() {
                                          setEmail('');
                                          setPassword('');
 
-                                         navigate('/');
+
                                          }
                                          }catch (error) {
                                                           console.error('Authentication error:', error);
